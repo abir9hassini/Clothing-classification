@@ -1,7 +1,7 @@
 # Clothing-classification
 
 This is a basic classification project: "Classify images of clothing" using TensorFlow & Keras.<br>
-This notebook builds and trains a neural network model to classify images of clothing, like sneakers, shirts..., by using the Fashion MNIST as dataset which contains 70,000 grayscale images in 10 categories ( 60,000 images in the training set and 10,000 images in the test set).
+This notebook builds and trains a neural network model to classify images of clothing, like sneakers, shirts..., by using the <a href=https://github.com/zalandoresearch/fashion-mnist>Fashion MNIST</a> as dataset which contains 70,000 grayscale images in 10 categories ( 60,000 images in the training set and 10,000 images in the test set).
 <ul><li>
 <h3><i>Categories</i></h3></li>
 <table>
